@@ -1,0 +1,25 @@
+{
+  "name": "uptv",
+  "version": "0.0.1",
+  
+  "dependencies": {
+    "express": "4.14.0",
+    "hogan-express" : "0.5.2",
+    "mongoose" : "4.5.3",
+    "moment" : "2.14.1",
+    "passport": "0.3.2",
+    "passport-local": "1.0.0",
+    "passport-local-mongoose": "4.0.0",
+    "connect-mongo" : "1.2.1"
+    "aws-sdk" : "2.4.5"
+    "request" : "2.72.0",
+    "twit" : "2.2.4",
+    "jQuery" : "3.0.0",
+    "underscore" : "1.8.3"
+  },
+
+  "engines" : {
+    "node" : "4.4.7",
+    "npm" : "2.15.8"
+  }
+}
